@@ -30,27 +30,3 @@ Bateria JS é um divertido jogo que permite simular uma bateria com os sons de c
 <br>
 <br>
 <br>
-
-<div id="aprender">
-<h2> Como posso aprender </h2>
-
-Você pode ter acesso ao tutorial completo desse app acessando o vídeo abaixo, junto com várias explicações técnicas das linhas de código que utilizamos e o motivo de as termos escolhido. 
-
-<strong><a href="https://youtu.be/lsRIbW4YCNE" style="background-color: #d22636; color: #fff; padding: 6px; font-weight: 600;"> 🔗 ASSISTIR AO TUTORIAL COMPLETO </a></strong>
-</div>
-<br>
-<br>
-<br>
-
-<div id="ajuda">
-<h2>  Precisa de ajuda?  </h2>
-
-Caso precise de ajuda para acessar os arquivos, ou não esteja entendendo alguma linha de comando utilizada, recomendamos que utilize o espaço disponível para comentários no vídeo explicativo do app que deixei o link acima. 
-</div>
-<br>
-<br>
-<br>
-
-<div id="contato">
-<h2> Como entro em contato? </h2>
-
