@@ -1,6 +1,4 @@
-<p align = "center">
-  <img src = "feature_code_logo/logo_feature_code.jpg" height = "178" width = "350" alt = "Feature Code" />
-</p>
+
 
 <div align = "center">
 <h1>Bateria JS </h1>
@@ -17,11 +15,6 @@
 
 <br>
 
-<p align="center">
- <a href="#visao">Visão geral</a> •
- <a href="#aprender">Como aprender?</a> • 
- <a href="#ajuda">Preciso de Ajuda</a> • 
- <a href="#contato">Contato</a>  
 </p>
 
 <br>
@@ -61,16 +54,3 @@ Caso precise de ajuda para acessar os arquivos, ou não esteja entendendo alguma
 <div id="contato">
 <h2> Como entro em contato? </h2>
 
-Será um prazer entrar em contato com você! Pode escolher qualquer uma das formas abaixo, que entraremos em contato o mais breve possível!
-
- ** <strong><a href="https://www.linkedin.com/in/t%C3%A9rcio-lu%C3%ADs-martins-ab3992207" style="text-decoration: normal;">  LinkedIn </a></strong>
- <br>
- ** <strong><a href="https://www.instagram.com/featurecode_/" style="text-decoration: normal;">  Instagram </a></strong>
- <br>
- ** <strong><a href="https://featurecode.com.br/contato/" style="text-decoration: normal;">  Formulário de e-mail </a></strong>
- <br>
- ** E-mail direto: <strong>luisnogueira@featurecode.com.br</strong> 
-</div>
-<br>
-<br>
-<br>
